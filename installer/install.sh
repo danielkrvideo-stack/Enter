@@ -9,7 +9,7 @@ ENTER_OWNER="danielkrvideo-stack"
 ENTER_REPOSITORY="Enter"
 ENTER_BRANCH="main"
 
-INSTALL_DIR="$HOME/Enter-Test"
+INSTALL_DIR="$HOME/Enter-Test/Installed"
 BIN_DIR="$HOME/.local/bin"
 
 TEMP_DIR="$(mktemp -d)"
