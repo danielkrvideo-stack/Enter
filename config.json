@@ -1,0 +1,10 @@
+
+{
+    "name": "Enter",
+    "version": "1.0.0",
+    "default_language": "En",
+    "installed_languages": [
+        "En"
+    ],
+    "engine": "Enter Engine"
+}

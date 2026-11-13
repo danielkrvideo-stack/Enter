@@ -1,0 +1,18 @@
+
+{
+    "ready": "Enter готов!",
+    "initializing": "Инициализация Enter",
+    "loading_modules": "Загрузка модулей",
+    "checking_components": "Проверка компонентов",
+    "preparing_environment": "Подготовка среды",
+    "goodbye": "До свидания!",
+    "help": "Доступные команды:",
+    "about": "О программе Enter",
+    "unknown_command": "Неизвестная команда",
+    "language_changed": "Язык изменён на русский.",
+    "language_not_installed": "Этот язык не установлен.",
+    "available_languages": "Установленные языки",
+    "python_mode": "Режим выполнения Python.",
+    "python_exit": "Напиши exit(), чтобы вернуться в Enter.",
+    "use_exit": "Напиши exit, чтобы закрыть Enter."
+}

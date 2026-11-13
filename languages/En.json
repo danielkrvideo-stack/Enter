@@ -1,0 +1,18 @@
+
+{
+    "ready": "Enter is ready!",
+    "initializing": "Initializing Enter",
+    "loading_modules": "Loading modules",
+    "checking_components": "Checking components",
+    "preparing_environment": "Preparing environment",
+    "goodbye": "Goodbye!",
+    "help": "Available commands:",
+    "about": "About Enter",
+    "unknown_command": "Unknown command",
+    "language_changed": "Language changed to English.",
+    "language_not_installed": "This language is not installed.",
+    "available_languages": "Installed languages",
+    "python_mode": "Python execution mode.",
+    "python_exit": "Type exit() to return to Enter.",
+    "use_exit": "Use 'exit' to close Enter."
+}

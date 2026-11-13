@@ -1,0 +1,18 @@
+
+{
+    "ready": "Enter on valmis!",
+    "initializing": "Enterin alustus",
+    "loading_modules": "Moduulien lataus",
+    "checking_components": "Komponenttien tarkistus",
+    "preparing_environment": "Ympäristön valmistelu",
+    "goodbye": "Näkemiin!",
+    "help": "Käytettävissä olevat komennot:",
+    "about": "Tietoja Enteristä",
+    "unknown_command": "Tuntematon komento",
+    "language_changed": "Kieleksi vaihdettu suomi.",
+    "language_not_installed": "Tätä kieltä ei ole asennettu.",
+    "available_languages": "Asennetut kielet",
+    "python_mode": "Python-suoritustila.",
+    "python_exit": "Kirjoita exit() palataksesi Enteriin.",
+    "use_exit": "Kirjoita exit sulkeaksesi Enterin."
+}
